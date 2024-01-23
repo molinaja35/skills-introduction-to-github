@@ -8,7 +8,6 @@
 -->
 
 # Introduction to GitHub
-
 _Get started using GitHub in less than an hour._
 
 </header>
@@ -19,6 +18,7 @@ _Get started using GitHub in less than an hour._
 -->
 
 ## Finish
+This is a new test
 
 _Congratulations, you've completed this course and joined the world of developers!_
 
